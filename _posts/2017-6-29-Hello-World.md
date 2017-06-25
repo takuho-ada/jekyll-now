@@ -74,4 +74,5 @@ title: 現在の導入MOD
 ・VeinMiner [[DL]](https://minecraft.curseforge.com/projects/veinminer/files/2354379)
 
 ・Waila [[DL]](https://minecraft.curseforge.com/projects/waila/files/2230518)
-___
+
+---
