@@ -10,7 +10,6 @@ title: 現在の導入MOD
  - このサイトはMinecraftのMODサーバーのMODのダウンロードリンクまとめです。
 ---
 
-
 ・[1.7.10]DQR mod (旧DQMIIINextmod) [[DL]](http://forum.minecraftuser.jp/viewtopic.php?t=20606)
 ・Ars Magica 2 [[DL]](https://minecraft.curseforge.com/projects/ars-magica-2/files/2280862)
 ・AcademyCraft [[DL]](https://minecraft.curseforge.com/projects/academycraft/files/2395301)
