@@ -10,8 +10,8 @@ title: 現在の導入MOD
  - このサイトはMinecraftのMODサーバーのMODのダウンロードリンクまとめです。
 ---
 
-・[1.7.10]DQR mod (旧DQMIIINextmod) [[DL]](http://forum.minecraftuser.jp/viewtopic.php?t=20606)
-・Ars Magica 2 [[DL]](https://minecraft.curseforge.com/projects/ars-magica-2/files/2280862)
+・[1.7.10]DQR mod (旧DQMIIINextmod) [[DL]](http://forum.minecraftuser.jp/viewtopic.php?t=20606)<br>
+・Ars Magica 2 [[DL]](https://minecraft.curseforge.com/projects/ars-magica-2/files/2280862)<br>
 ・AcademyCraft [[DL]](https://minecraft.curseforge.com/projects/academycraft/files/2395301)
 ・LambdaLib [[DL]](https://minecraft.curseforge.com/projects/lambdalib/files/2321336)
 ・AnimationAPI [[DL]](https://minecraft.curseforge.com/projects/animationapi/files/2221721)
